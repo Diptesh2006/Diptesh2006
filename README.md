@@ -10,11 +10,11 @@
 
 - 🎓 B.Tech CSE @ VIT Vellore  
 - 🎓 BS in Data Science & Applications @ IIT Madras (Online)  
-- 🧠 Passionate about **AI/ML, Multi-Agent Systems, and Intelligent Systems**  
-- 🌍 Focused on solving **real-world problems using data & AI**  
-- ⚙️ Love building **end-to-end systems (idea → model → deployment)**  
+- 🧠 Interested in **AI/ML, Multi-Agent Systems, and Intelligent Systems**  
+- 🌍 Focused on solving **real-world problems using data and AI**  
+- ⚙️ Building **end-to-end systems (idea → model → deployment)**  
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -45,14 +45,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Diptesh2006&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -64,9 +56,15 @@
 ## 🧠 Interests
 
 - Artificial Intelligence & Machine Learning  
-- Multi-agent systems & strategy  
-- Explainability & model understanding  
-- Real-world data applications  
+- Multi-agent systems & decentralized intelligence  
+- Explainability, interpretability & trustworthy AI  
+- Reinforcement learning & decision-making systems  
+- Geospatial AI and real-world data modeling  
+- Backend systems for ML applications  
+- Data-driven product building & system design  
+- Open-source collaboration & research-driven development  
+
+Note: Selected research and internship projects are currently private due to ongoing development and publication considerations.
 
 ---
 
